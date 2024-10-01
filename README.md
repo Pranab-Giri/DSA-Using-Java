@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1046-max-consecutive-ones-iii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0940-fruit-into-baskets) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Stack
 |  |
 | ------- |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1497-design-a-stack-with-increment-operation) |
+## Counting
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 <!---LeetCode Topics End-->
