@@ -59,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1256-rank-transform-of-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
