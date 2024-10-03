@@ -42,10 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0225-implement-stack-using-queues) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0225-implement-stack-using-queues) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Counting
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
