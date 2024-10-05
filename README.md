@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0940-fruit-into-baskets) |
 | [1256-rank-transform-of-an-array](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0567-permutation-in-string) |
 ## Queue
 |  |
 | ------- |
@@ -77,5 +80,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 <!---LeetCode Topics End-->
