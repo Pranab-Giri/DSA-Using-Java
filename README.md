@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0260-single-number-iii) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1046-max-consecutive-ones-iii) |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
