@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0260-single-number-iii) |
 | [0414-third-maximum-number](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0645-set-mismatch) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -107,5 +109,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
