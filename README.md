@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0225-implement-stack-using-queues) |
 | [1002-maximum-width-ramp](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Design
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1923-sentence-similarity-iii) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Queue
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0258-add-digits) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Number Theory
 |  |
 | ------- |
