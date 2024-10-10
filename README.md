@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0645-set-mismatch) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0940-fruit-into-baskets) |
+| [1002-maximum-width-ramp](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1002-maximum-width-ramp) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1046-max-consecutive-ones-iii) |
 | [1256-rank-transform-of-an-array](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0225-implement-stack-using-queues) |
+| [1002-maximum-width-ramp](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Design
 |  |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0292-nim-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
