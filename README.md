@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0268-missing-number) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0268-missing-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1046-max-consecutive-ones-iii) |
