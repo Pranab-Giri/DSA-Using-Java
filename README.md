@@ -148,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3195-separate-black-and-white-balls](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/3195-separate-black-and-white-balls) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
