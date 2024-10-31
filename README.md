@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0645-set-mismatch) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0645-set-mismatch) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0645-set-mismatch) |
 | [1256-rank-transform-of-an-array](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1256-rank-transform-of-an-array) |
@@ -102,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2581-divide-players-into-teams-of-equal-skill) |
