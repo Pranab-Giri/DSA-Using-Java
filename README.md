@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0232-implement-queue-using-stacks) |
 | [1002-maximum-width-ramp](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0232-implement-queue-using-stacks) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Counting
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
