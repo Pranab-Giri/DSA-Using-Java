@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0387-first-unique-character-in-a-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0567-permutation-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1302-delete-characters-to-make-fancy-string) |
