@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0260-single-number-iii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0349-intersection-of-two-arrays) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0812-rotate-string](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
