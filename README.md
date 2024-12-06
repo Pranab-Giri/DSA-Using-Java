@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1923-sentence-similarity-iii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1694-make-sum-divisible-by-p) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Stack
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Linked List
 |  |
 | ------- |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3195-separate-black-and-white-balls](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/3195-separate-black-and-white-balls) |
 ## Database
 |  |
