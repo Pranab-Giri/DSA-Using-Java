@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0016-3sum-closest) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0260-single-number-iii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0414-third-maximum-number) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0016-3sum-closest) |
 | [0349-intersection-of-two-arrays](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0567-permutation-in-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1468-check-if-n-and-its-double-exist) |
