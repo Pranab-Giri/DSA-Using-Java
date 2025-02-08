@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1694-make-sum-divisible-by-p) |
+| [2434-design-a-number-container-system](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2434-design-a-number-container-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0232-implement-queue-using-stacks) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2434-design-a-number-container-system](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2434-design-a-number-container-system) |
 ## Counting
 |  |
 | ------- |
@@ -220,5 +222,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2434-design-a-number-container-system](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2434-design-a-number-container-system) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
