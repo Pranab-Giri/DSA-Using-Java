@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0292-nim-game) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2448-count-number-of-bad-pairs) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
@@ -253,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1477-product-of-the-last-k-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
