@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1694-make-sum-divisible-by-p) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0232-implement-queue-using-stacks) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2434-design-a-number-container-system) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Trie
 |  |
 | ------- |
@@ -270,4 +273,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
