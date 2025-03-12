@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0645-set-mismatch) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0292-nim-game) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2802-find-the-punishment-number-of-an-integer) |
