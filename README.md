@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2478-longest-nice-subarray](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1755-defuse-the-bomb) |
+| [2478-longest-nice-subarray](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0645-set-mismatch) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2478-longest-nice-subarray) |
 ## Math
 |  |
 | ------- |
