@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1923-sentence-similarity-iii](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1923-sentence-similarity-iii) |
 | [2107-find-unique-binary-string](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2107-find-unique-binary-string) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0645-set-mismatch) |
 | [1256-rank-transform-of-an-array](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0292-nim-game) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1477-product-of-the-last-k-numbers) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2288-count-operations-to-obtain-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -326,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1170-shortest-common-supersequence) |
+## Matrix
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
