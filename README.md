@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1923-sentence-similarity-iii) |
 | [2107-find-unique-binary-string](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2262-solving-questions-with-brainpower](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1170-shortest-common-supersequence) |
+| [2262-solving-questions-with-brainpower](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2262-solving-questions-with-brainpower) |
 ## Matrix
 |  |
 | ------- |
