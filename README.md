@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/3195-separate-black-and-white-balls) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/3447-clear-digits) |
 ## Queue
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2288-count-operations-to-obtain-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1170-shortest-common-supersequence) |
 | [2262-solving-questions-with-brainpower](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Matrix
 |  |
 | ------- |
