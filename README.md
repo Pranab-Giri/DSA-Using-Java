@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0567-permutation-in-string) |
