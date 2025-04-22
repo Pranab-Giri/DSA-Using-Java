@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1477-product-of-the-last-k-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2288-count-operations-to-obtain-zero) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2998-count-symmetric-integers) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0258-add-digits) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Enumeration
 |  |
 | ------- |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/1170-shortest-common-supersequence) |
 | [2262-solving-questions-with-brainpower](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Matrix
 |  |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Pranab-Giri/DSA-Using-Java/tree/master/3548-find-the-count-of-good-integers) |
 ## Binary Indexed Tree
 |  |
